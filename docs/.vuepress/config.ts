@@ -70,6 +70,12 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: 'springcloud教程', link: '/pages/4c778760be26d8b3/' },
         ],
       },
+      {
+        text: '环境搭建',
+        link: '/build/',
+        items: [
+        ],
+      },
       { text: '关于', link: '/about/' },
       {
         text: '收藏',
