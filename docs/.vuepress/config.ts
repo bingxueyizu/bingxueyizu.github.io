@@ -37,38 +37,18 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           {
             text: 'docker swarm系列',
             items: [
-              { text: '《docker swarm教程》', link: '/pages/8143cc480faf9a11/' },
+              { text: '《docker swarm教程》', link: '/pages/246501/' },
             ],
-          },
-          {
-            text: 'pacemaker系列',
-            items: [
-              { text: '《pacemaker教程》', link: '/note/javascript/' },
-            ],
-          },
-          {
-            text: 'kubernetes系列',
-            items: [
-              { text: '《kubernetes教程》', link: '/note/javascript/' },
-            ],
-          },
+          }
         ],
       },
       {
         text: '持续集成',
         link: '/cicd/',
         items: [
-          { text: 'jenkins教程', link: '/pages/8309a5b876fc95e3/' },
+          { text: 'jenkins教程', link: '/pages/c5a8e6/' },
           { text: 'gitlab教程', link: '/pages/72e237/' },
           { text: 'ldap教程', link: '/pages/56a89f/' },
-        ],
-      },
-      {
-        text: '全栈开发',
-        link: '/stack/',
-        items: [
-          { text: 'springboot教程', link: '/pages/9a7ee40fc232253e/' },
-          { text: 'springcloud教程', link: '/pages/4c778760be26d8b3/' },
         ],
       },
       {
