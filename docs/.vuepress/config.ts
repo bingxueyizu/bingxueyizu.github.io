@@ -59,7 +59,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/cicd/',
         items: [
           { text: 'jenkins教程', link: '/pages/8309a5b876fc95e3/' },
-          { text: 'gitlab教程', link: '/pages/0a83b083bdf257cb/' },
+          { text: 'gitlab教程', link: '/pages/72e237/' },
+          { text: 'ldap教程', link: '/pages/56a89f/' },
         ],
       },
       {
