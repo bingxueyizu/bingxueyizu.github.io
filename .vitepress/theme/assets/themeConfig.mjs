@@ -156,9 +156,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://example.com/1.avif',
-        'https://example.com/2.avif',
-        'https://example.com/3.avif'
+        '/images/logo/logo.webp',
+        'https://images.unsplash.com/photo-1499750310159-5295296472ac?w=1200&h=600&fit=crop',
+        'https://images.unsplash.com/photo-1555099962413-a587d93b7b83?w=1200&h=600&fit=crop'
       ]
     }
   },
