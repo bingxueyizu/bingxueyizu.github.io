@@ -4,7 +4,7 @@ date: 2026-04-21
 permalink: /posts/20260421-github-pages-blog-setup.html
 categories: 环境搭建
 tags: [GitHub Pages, VitePress, 博客搭建, 自动化部署, 主题迁移]
-cover: /images/logo/cover-default.svg
+cover: /images/blog/cover-08.svg
 articleGPT: 本文详细记录了将个人博客从 VuePress + vdoing 主题迁移到 VitePress + curve 主题的完整过程，包括环境准备、主题迁移、配置更新、自动化部署等步骤，分享了迁移过程中的经验和踩坑记录，希望对想要搭建或迁移自己博客的朋友有所帮助。
 ---
 
