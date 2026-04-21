@@ -1,22 +1,10 @@
 {
-  "headers": [
-    {
-      "source": "/assets/js/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "max-age=31536000, immutable"
-        }
-      ]
-    },
-    {
-      "source": "/assets/css/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "max-age=31536000, immutable"
-        }
-      ]
-    }
+  "cleanUrls": true,
+  "framework": "vitepress",
+  "outputDirectory": "./.vitepress/dist",
+  "rewrites": [
+    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
+    { "source": "/feed.xml", "destination": "/feed.xml" },
+    { "source": "/:path*", "destination": "/index.html" }
   ]
 }
