@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>bingxueyizu's blog</title>
+        <link>https://bingxueyizu.github.io</link>
+        <description>故天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空伐其身行，行弗乱其所为，所以动心忍性，曾益其所不能</description>
+        <lastBuildDate>Tue, 21 Apr 2026 11:56:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>bingxueyizu</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present bingxueyizu</copyright>
+        <item>
+            <title><![CDATA[GitHub Pages 博客搭建全流程 - 从 VuePress 迁移到 VitePress]]></title>
+            <link>https://bingxueyizu.github.io/posts/2026/20260421-github-pages-blog-setup</link>
+            <guid>https://bingxueyizu.github.io/posts/2026/20260421-github-pages-blog-setup</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <author>lq_bingxueyizu@qq.com (bingxueyizu)</author>
+        </item>
+        <item>
+            <title><![CDATA[欢迎使用 Curve]]></title>
+            <link>https://bingxueyizu.github.io/posts/2024/1010</link>
+            <guid>https://bingxueyizu.github.io/posts/2024/1010</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎使用 Curve 主题，这是你的第一篇文章]]></description>
+            <author>lq_bingxueyizu@qq.com (bingxueyizu)</author>
+        </item>
+    </channel>
+</rss>

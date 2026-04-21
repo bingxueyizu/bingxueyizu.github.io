@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /pages/
+Allow: /posts/
+
+Sitemap: https://bingxueyizu.github.io/sitemap.xml
